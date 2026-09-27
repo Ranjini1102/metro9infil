@@ -1,0 +1,9 @@
+{
+  "name": "metro9-infiltration-protocol",
+  "version": "1.0.0",
+  "description": "METRO-9: Infiltration Protocol - 3D Infiltration Game",
+  "private": true,
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
