@@ -120,6 +120,11 @@ We welcome contributions from developers, 3D artists, and game designers!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## 👨‍💻 Creator
+
+**Ranjini**
+- GitHub: [@Ranjini1102](https://github.com/Ranjini1102)
+
 ## 📄 License
 
 This project is licensed under the MIT License.
